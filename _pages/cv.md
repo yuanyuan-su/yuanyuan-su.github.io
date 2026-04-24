@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 5
 cv_pdf: /assets/pdf/CV.pdf
-cv_format: rendercv
+cv_format: pdf
 description: 
 toc:
   sidebar: left
